@@ -1,0 +1,21 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/rhinitis-secondary-care-vasomotor---secondary.py
+inputModule3:
+  class: File
+  path: python/other-rhinitis-secondary-care---secondary.py
+inputModule4:
+  class: File
+  path: python/chronic-rhinitis-secondary-care---secondary.py
+inputModule5:
+  class: File
+  path: python/allergic-rhinitis-secondary-care---secondary.py
+inputModule6:
+  class: File
+  path: python/output-cases.py
